@@ -1,1 +1,2 @@
-React app Keeper
+React app clone of Google's Keeper app
+ 
