@@ -1,4 +1,6 @@
-# React app clone of Google's Keeper app
- 
+# Google's Keeper app clone
+
+Web app built with React
+
 Available at https://keeper-app-artikov.herokuapp.com/
 
